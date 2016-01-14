@@ -1,4 +1,8 @@
-.blockp {
+.spanp {
+  background-color: green;
+  color: white;
+}
+.cssp {
   background-color: green;
   color: white;
 }
