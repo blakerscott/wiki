@@ -6,3 +6,8 @@
   background-color: green;
   color: white;
 }
+
+.floatexample {
+    float: right;
+    
+}
